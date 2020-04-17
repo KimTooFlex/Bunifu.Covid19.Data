@@ -1,0 +1,6 @@
+C:\Users\KIM TOO FLEX\source\repos\covid_19_scrapping\Bunifu.Covid19.Data\bin\Debug\Bunifu.Covid19.Data.dll
+C:\Users\KIM TOO FLEX\source\repos\covid_19_scrapping\Bunifu.Covid19.Data\bin\Debug\Bunifu.Covid19.Data.pdb
+C:\Users\KIM TOO FLEX\source\repos\covid_19_scrapping\Bunifu.Covid19.Data\obj\Debug\Bunifu.Covid19.Data.csprojAssemblyReference.cache
+C:\Users\KIM TOO FLEX\source\repos\covid_19_scrapping\Bunifu.Covid19.Data\obj\Debug\Bunifu.Covid19.Data.csproj.CoreCompileInputs.cache
+C:\Users\KIM TOO FLEX\source\repos\covid_19_scrapping\Bunifu.Covid19.Data\obj\Debug\Bunifu.Covid19.Data.dll
+C:\Users\KIM TOO FLEX\source\repos\covid_19_scrapping\Bunifu.Covid19.Data\obj\Debug\Bunifu.Covid19.Data.pdb
